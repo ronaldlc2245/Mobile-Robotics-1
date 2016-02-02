@@ -1,4 +1,3 @@
 # Mobile-Robotics-1
 
-this is to practice using giThub
-Read
+This repo is for Fred Martin's Mobile robotics class.
